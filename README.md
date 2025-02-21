@@ -10,7 +10,7 @@
  
 - [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Security+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CompTIA Networtk+ in progress](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [CompTIA Network+ ](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
 

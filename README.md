@@ -8,9 +8,9 @@
 
 <h2>📝 Certifications</h2>
  
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA Security+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CompTIA Network+ ](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [CompTIA A+](https://www.credly.com/badges/1d210445-3fd5-433a-ab3f-5da69c10693c/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/6716ed08-88a0-48c3-9977-111f8ff7a795/public_url)
+- [CompTIA Network+ ]()
 
 
 
